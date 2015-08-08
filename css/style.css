@@ -1,0 +1,16 @@
+.box {
+    width: 300px;
+    height: 300px;
+    display: block;
+    position: absolute;
+    background-color: black;
+}
+
+.underbox {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: absolute;
+    background-color: red;
+}
+
